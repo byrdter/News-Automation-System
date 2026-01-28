@@ -48,7 +48,5 @@ node_modules/
 # Jupyter notebooks (if any)
 .ipynb_checkpoints/
 
-# Next.js build cache (large files)
-frontend/.next/cache/
-frontend/.next/static/
-frontend/.next/trace/
+# Next.js build output
+.next/
